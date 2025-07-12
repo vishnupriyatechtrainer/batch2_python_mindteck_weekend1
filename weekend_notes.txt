@@ -1,0 +1,53 @@
+html css js  - frontend
+
+mysql  - db - backend
+
+queries -
+
+database - CREATE database db1
+table  - CREATE Table form1
+rows 
+columns
+
+CRUD
+
+create , read , update , delete
+get , post , pull , delte
+
+
+
+mindteck - db
+
+table - emplyee - hr - management 
+
+f.e to b.e - json.stringify()
+b.e to f.e - json.parse()
+
+json
+
+api - application program interface
+
+f.e  - api -  b.e 
+
+json - [] + {} - array + object
+list + dictionary
+
+
+data.city.id()
+
+
+data.list[0].dt()
+
+
+data.list[0].main.grand_level()
+
+
+data.list[0].weather[0].id()
+
+
+[{},{},{},{}]
+ 0  1  2  3
+
+model - brain 
+
+
